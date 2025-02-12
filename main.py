@@ -4,4 +4,5 @@ c = 3
 print(a + b + c)
 print('123')
 print('456')
-b = 123
+b = 10
+c = 123
